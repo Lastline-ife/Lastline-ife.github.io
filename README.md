@@ -14,6 +14,7 @@ Lastline team introduction
  Echelon:
   
  * 热爱前端的初学者=.=，很高兴成为Lastline的一员。   
+ 
 
  Withershins：
 
