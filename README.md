@@ -20,3 +20,7 @@ Echelon:
 [Bruce](http://xiongty.com):
 
  * 金融学毕业，不懂计算机。
+ 
+Withershins：
+ 
+ * LastLine第四号成员,没有经验，没有技术，小伙伴们中*唯一一点*的优势就是比他们都年轻~
